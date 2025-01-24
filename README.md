@@ -1,8 +1,5 @@
-
-# Ding Backend Assignment
-
 ## Overview
-This project is a backend solution for the **Ding** platform. It is designed to handle user registrations, matchmaking, reservations, notifications, and file uploads. The backend is implemented using **Python** and communicates with a **MariaDB** database. The entire solution is Dockerized for seamless deployment.
+This project is a backend solution for the Car Pooling platform. It is designed to handle user registrations, matchmaking, reservations, notifications, and file uploads. The backend is implemented using **Python** and communicates with a **MariaDB** database. The entire solution is Dockerized for seamless deployment.
 
 ---
 
@@ -34,6 +31,7 @@ This project is a backend solution for the **Ding** platform. It is designed to 
 
 ## Prerequisites
 - **Python 3.12** or higher
+- **Flask**
 - **MariaDB**
 - **Docker** and **Docker Compose**
 - **Git** for version control
